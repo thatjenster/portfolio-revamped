@@ -1,8 +1,10 @@
+import MaxWidthContainer from "Components/MaxWidthContainer";
+
 export default function HomePage() {
   return (
-    <div>
+    <main>
       Hello World
-    </div>
+    </main>
   )
 }
 
